@@ -7,6 +7,6 @@
 )
 
 package us.springett.threatmodeling.tools.mstmt2016.model;
-import javax.xml.bind.annotation.XmlSchema;
-import javax.xml.bind.annotation.XmlNsForm;
-import javax.xml.bind.annotation.XmlNs;
+import jakarta.xml.bind.annotation.XmlSchema;
+import jakarta.xml.bind.annotation.XmlNsForm;
+import jakarta.xml.bind.annotation.XmlNs;

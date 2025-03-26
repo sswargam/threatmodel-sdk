@@ -15,7 +15,7 @@
  */
 package us.springett.threatmodeling.tools.mstmt2016.model;
 
-import javax.xml.bind.annotation.*;
+import jakarta.xml.bind.annotation.*;
 import java.util.List;
 
 @XmlRootElement(name = "KnowledgeBase")

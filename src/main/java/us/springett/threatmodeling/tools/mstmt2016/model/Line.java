@@ -15,8 +15,8 @@
  */
 package us.springett.threatmodeling.tools.mstmt2016.model;
 
-import javax.xml.bind.annotation.XmlElement;
-import javax.xml.bind.annotation.XmlRootElement;
+import jakarta.xml.bind.annotation.XmlElement;
+import jakarta.xml.bind.annotation.XmlRootElement;
 
 @XmlRootElement(name = "KeyValueOfguidanyType", namespace = "http://schemas.microsoft.com/2003/10/Serialization/Arrays")
 public class Line {

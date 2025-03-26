@@ -25,9 +25,9 @@ import us.springett.threatmodeling.tools.mstmt2016.model.ThreatInstance;
 import us.springett.threatmodeling.tools.mstmt2016.model.ThreatType;
 import us.springett.threatmodeling.tools.mstmt2016.util.ParseUtil;
 
-import javax.xml.bind.JAXBContext;
-import javax.xml.bind.JAXBException;
-import javax.xml.bind.Unmarshaller;
+import jakarta.xml.bind.JAXBContext;
+import jakarta.xml.bind.JAXBException;
+import jakarta.xml.bind.Unmarshaller;
 import javax.xml.stream.XMLInputFactory;
 import javax.xml.stream.XMLStreamException;
 import javax.xml.stream.XMLStreamReader;
